@@ -1,0 +1,49 @@
+body {
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+   }
+h2:hover{ background-color: #ffe5d9 ;
+    transform: scale(1.1);
+    }
+    p:hover{ background-color: #ffe5d9 ;   
+            transform: scale(1.1);
+    }
+    
+    h4:hover{
+        background-color: #ffe5d9 ;
+              transform: scale(1.1); }
+            
+.avatar {
+
+    height: 175px;
+    width: 175px;
+    border-radius: 100%;
+}
+.image:hover{
+   
+        transform: scale(1.1);
+        background: #2b2839;
+        height: 181px;
+        width: 181px;
+        border-radius: 100%;
+}
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #f5ebe0;
+    color: #2b2839;
+    border-bottom: 6px groove #f8ad9d;
+    border-top: 6px groove #f8ad9d;
+    border-radius: 10px;
+
+   
+}
+
+
+
+
+
